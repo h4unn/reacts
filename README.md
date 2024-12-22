@@ -1,2 +1,0 @@
-# reacts
-react-tutorial
